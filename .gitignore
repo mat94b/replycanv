@@ -1,0 +1,14 @@
+bin/
+*.suo
+*.dll
+*.pbd
+*.cache
+*.txt
+obj/
+*.suo
+*.dll
+*.pdb
+*.cache
+*.txt
+*.v2
+*.dtbcache.v2
